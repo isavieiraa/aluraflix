@@ -14,9 +14,9 @@ section{
     background: rgb(119,45,119);
     padding-bottom: 80px;
     padding-top: 80px;
-    display: flex;
-    justify-content: center;
-    
+    display: space-evenly;
+    justify-content: space-evenly;
+
 
 
 }
